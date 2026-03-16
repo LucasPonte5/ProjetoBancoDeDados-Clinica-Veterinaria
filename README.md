@@ -8,7 +8,10 @@
 * **Miguel Monteiro Alves Paes** - miguel.alves@ufrpe.br
 
 * ## Equipe de Banco de Dados I
-* 
+* **Lucas Pontes França Diniz Lima**
+* **Rafael Gomes de Araújo Melo**
+* **Mariana Oliveira Lima**
+* **João Lucas Cosme**
 
 ## Descrição
 
